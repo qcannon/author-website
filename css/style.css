@@ -2,7 +2,27 @@ body {
     background-color: #222;
 }
 
-.landing h1 {
-    color: #fff;
+.page-top h1 {
+    color: #adbac7;
     text-align: center;
+}
+
+#papa-quinton {
+    position: absolute;
+    width: 546px;
+    height: 728px;
+    left: -41px;
+    top: -10px;
+}
+
+#qc-github {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 513px;
+    top: 648px;
+}
+
+.about-me {
+    color: #adbac7;
 }
